@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "127625031140",
+    "firebase_url": "https://miniprojectchat-f547a.firebaseio.com",
+    "project_id": "miniprojectchat-f547a",
+    "storage_bucket": "miniprojectchat-f547a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:127625031140:android:38e45e153bcf217177abf1",
+        "android_client_info": {
+          "package_name": "com.realchat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "127625031140-qr5o9fd31giq7du3dndm9icn98np03t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBnMTRwFAQhBtKARiC1jcFHWKa7ZhnyN98"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "127625031140-qr5o9fd31giq7du3dndm9icn98np03t9.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "127625031140-veijulgtmchjlcou6imqegjo527ms9dj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "realchatminiproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
